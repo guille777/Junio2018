@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Envelop>
+	<Order>
+		<Head>
+			<DocumentID>00036534</DocumentID>
+			<CustomerID></CustomerID>
+			<Division>1</Division>
+			<OrderDate>20170705</OrderDate>
+			<DeliveryDate></DeliveryDate>
+			<Reference><![CDATA[00036534/]]></Reference>
+			<VAT_Type_Code>1</VAT_Type_Code>
+			<Payment_Code></Payment_Code>
+		</Head>
+		<Body>
+			<Line>
+				<ItemID>6545</ItemID>
+				<BackorderNumber>56496</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>90,00</Price>
+				<Description><![CDATA[Moniteur couleur SMILE VDS, ecran TFT 3,5&quot;]]></Description>
+			</Line>
+			<Line>
+				<ItemID>2405</ItemID>
+				<BackorderNumber>56497</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>2,00</Qty>
+				<Price>123,50</Price>
+				<Description><![CDATA[Mini centrale MDS-max. 1022 utilisateurs- 4000 incidences]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4420</ItemID>
+				<BackorderNumber>56498</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>3,00</Qty>
+				<Price>36,50</Price>
+				<Description><![CDATA[MDS Wiegand contrôleur de porte pour 1 porte-max. 2 lecteurs]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9775</ItemID>
+				<BackorderNumber>56499</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>2,00</Qty>
+				<Price>129,00</Price>
+				<Description><![CDATA[MODULE AUDIO VIDEO KIT NCITY VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7415</ItemID>
+				<BackorderNumber>56500</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>67,50</Price>
+				<Description><![CDATA[Module audio SKYLINE VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9697</ItemID>
+				<BackorderNumber>56501</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>65,00</Price>
+				<Description><![CDATA[CITY CLASSIC module audio amplifcateur VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7375</ItemID>
+				<BackorderNumber>56502</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>2,00</Qty>
+				<Price>18,00</Price>
+				<Description><![CDATA[Module SKYLINE avec 1 bouton d&apos;appel VDS/DUOX/LYNX]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7391</ItemID>
+				<BackorderNumber>56503</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>3,00</Qty>
+				<Price>120,00</Price>
+				<Description><![CDATA[Module audio/vidéo SKYLINE DUOX]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7400</ItemID>
+				<BackorderNumber>56504</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>51,00</Price>
+				<Description><![CDATA[Module Audio SKYLINE analogique]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6550</ItemID>
+				<BackorderNumber>56505</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>9,00</Qty>
+				<Price>120,00</Price>
+				<Description><![CDATA[Moniteur couleur SMILE VDS, ecran TFT 7&quot;]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9775</ItemID>
+				<BackorderNumber>56506</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>129,00</Price>
+				<Description><![CDATA[MODULE AUDIO VIDEO KIT NCITY VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7440</ItemID>
+				<BackorderNumber>56507</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>58,70</Price>
+				<Description><![CDATA[Lecteur de proximité SKYLINE MDS/WIEGAND/AUTONOME]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7447</ItemID>
+				<BackorderNumber>56508</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>97,50</Price>
+				<Description><![CDATA[Module clavier DIGITAL SKYLINE pour DUOX / VDS / MDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7421</ItemID>
+				<BackorderNumber>56509</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>6,00</Qty>
+				<Price>123,60</Price>
+				<Description><![CDATA[Module audio/vidéo couleur SKYLINE VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6969</ItemID>
+				<BackorderNumber>56510</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>176,00</Price>
+				<Description><![CDATA[2W MODULE AUDIO VIDEO POUR PANNEAUX NEW CITY VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6966</ItemID>
+				<BackorderNumber>56511</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>92,50</Price>
+				<Description><![CDATA[2/W VDS CITY AUDIO MODULE]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1412</ItemID>
+				<BackorderNumber>56512</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>100,00</Price>
+				<Description><![CDATA[Moniteur couleur WAY 7&quot; (pour BP1 1401/1-1402/1-1403 V3)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1405</ItemID>
+				<BackorderNumber>56513</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>100,00</Price>
+				<Description><![CDATA[Moniteur couleur WAY 7&quot; app. (extension sur KIT 1401/1402)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4813</ItemID>
+				<BackorderNumber>56514</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>1,00</Qty>
+				<Price>35,75</Price>
+				<Description><![CDATA[Alimentation 12 VCC - 2 A - Dinrail - 6 modules - 230 VCA]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4830 V3.1!!!</ItemID>
+				<BackorderNumber>56515</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>4,00</Qty>
+				<Price>50,00</Price>
+				<Description><![CDATA[Alimentation 18 VCC - 3,5 A - DIN 6 - 230VCA]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9408</ItemID>
+				<BackorderNumber>56516</BackorderNumber>
+				<DueDate>20170719</DueDate>
+				<Qty>5,00</Qty>
+				<Price>70,00</Price>
+				<Description><![CDATA[Moniteur FERMAX VEO-XS 4,3&quot; (DUOX)]]></Description>
+			</Line>
+		</Body>
+	</Order>
+</Envelop>

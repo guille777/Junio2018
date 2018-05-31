@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Envelop>
+	<Order>
+		<Head>
+			<DocumentID>00036540</DocumentID>
+			<CustomerID></CustomerID>
+			<Division>1</Division>
+			<OrderDate>20170707</OrderDate>
+			<DeliveryDate></DeliveryDate>
+			<Reference><![CDATA[00036540/]]></Reference>
+			<VAT_Type_Code>1</VAT_Type_Code>
+			<Payment_Code></Payment_Code>
+		</Head>
+		<Body>
+			<Line>
+				<ItemID>4410</ItemID>
+				<BackorderNumber>56592</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>262,50</Price>
+				<Description><![CDATA[Mini centrale pour système contrôle d&apos;accès FERMAX ACPLUS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9408</ItemID>
+				<BackorderNumber>56593</BackorderNumber>
+				<DueDate>20170724</DueDate>
+				<Qty>20,00</Qty>
+				<Price>70,00</Price>
+				<Description><![CDATA[Moniteur FERMAX VEO-XS 4,3&quot; (DUOX)]]></Description>
+			</Line>
+		</Body>
+	</Order>
+</Envelop>

@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Envelop>
+	<Order>
+		<Head>
+			<DocumentID>00036539</DocumentID>
+			<CustomerID></CustomerID>
+			<Division>1</Division>
+			<OrderDate>20170707</OrderDate>
+			<DeliveryDate></DeliveryDate>
+			<Reference><![CDATA[00036539/]]></Reference>
+			<VAT_Type_Code>1</VAT_Type_Code>
+			<Payment_Code></Payment_Code>
+		</Head>
+		<Body>
+			<Line>
+				<ItemID>6991</ItemID>
+				<BackorderNumber>56544</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>2,00</Qty>
+				<Price>81,30</Price>
+				<Description><![CDATA[New CITY clavier à code autonome MEMOKEY 100 codes]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7061</ItemID>
+				<BackorderNumber>56546</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>30,00</Qty>
+				<Price>12,50</Price>
+				<Description><![CDATA[Boîtier apparent série 1 pour CITY/SKYLINE]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7066</ItemID>
+				<BackorderNumber>56547</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>16,50</Price>
+				<Description><![CDATA[Boîtier apparent série 6 pour CITY/SKYLINE]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7333</ItemID>
+				<BackorderNumber>56548</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>20,00</Qty>
+				<Price>21,50</Price>
+				<Description><![CDATA[Cadre pour poste d&apos;appel SKYLINE 3V - hauteur série 4]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7367</ItemID>
+				<BackorderNumber>56549</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>20,00</Qty>
+				<Price>31,50</Price>
+				<Description><![CDATA[Module SKYLINE avec 4 boutons d&apos;appel VDS/DUOX]]></Description>
+			</Line>
+			<Line>
+				<ItemID>8852</ItemID>
+				<BackorderNumber>56550</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>3,00</Qty>
+				<Price>8,00</Price>
+				<Description><![CDATA[Boîtier d&apos;encastrement série 2]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3244</ItemID>
+				<BackorderNumber>56553</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>30,50</Price>
+				<Description><![CDATA[DUOX Module d&apos;isolation pour alimentation (filtre)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3255</ItemID>
+				<BackorderNumber>56554</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>7,00</Price>
+				<Description><![CDATA[DUOX Adaptateur de ligne]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4800</ItemID>
+				<BackorderNumber>56555</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>15,00</Qty>
+				<Price>12,25</Price>
+				<Description><![CDATA[Alimentation 12 VCA - 1,5 A - 230 VCA - DIN 4 modul]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4810</ItemID>
+				<BackorderNumber>56556</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>45,00</Price>
+				<Description><![CDATA[Alimentation 18 VCC/12VCA - 1,5 A - Din - 10 modul - 230 VCA]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4813</ItemID>
+				<BackorderNumber>56557</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>35,75</Price>
+				<Description><![CDATA[Alimentation 12 VCC - 2 A - Dinrail - 6 modules - 230 VCA]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1422</ItemID>
+				<BackorderNumber>56558</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>1,00</Qty>
+				<Price>211,00</Price>
+				<Description><![CDATA[Kit vidéo couleur WAY SLIM 2 BP moniteurs 4,3&quot; apparent]]></Description>
+			</Line>
+			<Line>
+				<ItemID>5071</ItemID>
+				<BackorderNumber>56559</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>245,00</Price>
+				<Description><![CDATA[Kit vidéo couleur CITY VDS 1 bout. moniteur SMILE 7&quot; appar.]]></Description>
+			</Line>
+			<Line>
+				<ItemID>5489</ItemID>
+				<BackorderNumber>56560</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>2,00</Qty>
+				<Price>290,00</Price>
+				<Description><![CDATA[Kit vidéophone FERMAX MARINE vidéo couL,1 bouton, DUOX VEO]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6201</ItemID>
+				<BackorderNumber>56561</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>37,00</Price>
+				<Description><![CDATA[Kit parlophone CITY CLASSIC - 1 bouton - boîtier encastré]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3014</ItemID>
+				<BackorderNumber>56564</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>13,00</Price>
+				<Description><![CDATA[Gâche electrique 12 VCC - ferme sous tension.]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1605</ItemID>
+				<BackorderNumber>56565</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>2,00</Qty>
+				<Price>21,50</Price>
+				<Description><![CDATA[Plaque murale/connecteur pour moniteur VIVO LYNX]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1622</ItemID>
+				<BackorderNumber>56566</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>3,00</Qty>
+				<Price>400,00</Price>
+				<Description><![CDATA[Module audio/vidéo couleur SKYLINE pour systèmes LYNX IP]]></Description>
+			</Line>
+			<Line>
+				<ItemID>4643</ItemID>
+				<BackorderNumber>56567</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>1,00</Qty>
+				<Price>20,50</Price>
+				<Description><![CDATA[MARINE boitier à encastrer type ST-3]]></Description>
+			</Line>
+			<Line>
+				<ItemID>54337</ItemID>
+				<BackorderNumber>56568</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>1,00</Qty>
+				<Price>250,00</Price>
+				<Description><![CDATA[Poste d&apos;appel type MARINE video,1 bouton, VDS, ST1]]></Description>
+			</Line>
+			<Line>
+				<ItemID>2418</ItemID>
+				<BackorderNumber>56569</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>1,00</Qty>
+				<Price>22,50</Price>
+				<Description><![CDATA[Distributeur pour signal vidéo 4 sorties - système MDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>1606</ItemID>
+				<BackorderNumber>56570</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>85,00</Price>
+				<Description><![CDATA[Support de table pour moniteur VIVO LYNX (7&quot;)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3310</ItemID>
+				<BackorderNumber>56571</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>2,00</Qty>
+				<Price>56,60</Price>
+				<Description><![CDATA[Moniteur FERMAX LOFT n/b, analogique]]></Description>
+			</Line>
+			<Line>
+				<ItemID>5606</ItemID>
+				<BackorderNumber>56572</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>85,00</Price>
+				<Description><![CDATA[Moniteur iLOFT PURE couleur 3.5&quot; à APPARENT - VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6557</ItemID>
+				<BackorderNumber>56573</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>1,00</Qty>
+				<Price>127,00</Price>
+				<Description><![CDATA[Moniteur couleur SMILE VDS noir, ecran TFT 7&quot;]]></Description>
+			</Line>
+			<Line>
+				<ItemID>6565</ItemID>
+				<BackorderNumber>56574</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>5,75</Price>
+				<Description><![CDATA[Plaque murale/connecteur pour SMILE VDS - basic + blanc]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9401</ItemID>
+				<BackorderNumber>56575</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>15,00</Qty>
+				<Price>77,20</Price>
+				<Description><![CDATA[Moniteur FERMAX VEO couleur 4.3&quot; - VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9402</ItemID>
+				<BackorderNumber>56576</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>15,00</Qty>
+				<Price>5,10</Price>
+				<Description><![CDATA[Plaque murale/connecteur FERMAX VEO  - VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9405</ItemID>
+				<BackorderNumber>56577</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>20,00</Qty>
+				<Price>65,00</Price>
+				<Description><![CDATA[Moniteur FERMAX VEO 4,3&quot; (DUOX)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>9407</ItemID>
+				<BackorderNumber>56578</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>50,00</Qty>
+				<Price>5,00</Price>
+				<Description><![CDATA[Plaque murale/connecteur FERMAX VEO-XS (DUOX)]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3390</ItemID>
+				<BackorderNumber>56580</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>100,00</Qty>
+				<Price>15,90</Price>
+				<Description><![CDATA[Poste de réponse type LOFT BASIC, pour systèmes VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>3391</ItemID>
+				<BackorderNumber>56581</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>20,50</Price>
+				<Description><![CDATA[Poste de réponse type LOFT EXTRA, pour systèmes VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>FERTEL3394</ItemID>
+				<BackorderNumber>56582</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>10,00</Qty>
+				<Price>14,25</Price>
+				<Description><![CDATA[Poste de réponse type LOFT EXTRA, pour systèmes analogiques]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7415</ItemID>
+				<BackorderNumber>56586</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>20,00</Qty>
+				<Price>67,50</Price>
+				<Description><![CDATA[Module audio SKYLINE VDS]]></Description>
+			</Line>
+			<Line>
+				<ItemID>7065</ItemID>
+				<BackorderNumber>56587</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>15,00</Price>
+				<Description><![CDATA[Boîtier apparent série 5 pour CITY/SKYLINE]]></Description>
+			</Line>
+			<Line>
+				<ItemID>8855</ItemID>
+				<BackorderNumber>56588</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>9,75</Price>
+				<Description><![CDATA[Boîtier d&apos;encastrement série 5]]></Description>
+			</Line>
+			<Line>
+				<ItemID>8857</ItemID>
+				<BackorderNumber>56589</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>11,00</Price>
+				<Description><![CDATA[Boîtier d&apos;encastrement série 7]]></Description>
+			</Line>
+			<Line>
+				<ItemID>8982</ItemID>
+				<BackorderNumber>56590</BackorderNumber>
+				<DueDate>20170717</DueDate>
+				<Qty>5,00</Qty>
+				<Price>12,25</Price>
+				<Description><![CDATA[Boîtier d&apos;encastrement série 9]]></Description>
+			</Line>
+		</Body>
+	</Order>
+</Envelop>
