@@ -1,0 +1,26 @@
+easy_admin:
+    site_name: 'Intranet Fermax - Panel de Administración'
+    design:
+        color_scheme: 'dark'
+        menu:
+          - label: 'Entidades'
+            children:
+              - { entity: 'User', label: 'Opciones generales(User)' }
+    entities:
+        User:
+            label: 'Entidades'
+            class: AppBundle\Entity\User
+            list:
+                fields:
+                    - id
+                    - { property: 'Username', label: 'Username' }
+                    - { property: 'Email', label: 'Email' }
+                actions:
+                    - { name: 'new', label: 'Inserta en Users' }
+            form:
+                fields:
+                    - { property: 'Username', label: 'Username', type: 'text' }
+                    - { property: 'Email', label: 'Email', type: 'text' }
+            edit:
+                title:  'Editar %%entity_label%%'
+                 #aqui ir poniendo otras entitys

@@ -1,0 +1,99 @@
+#controlbundle_usuarios_Insert{
+  color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    display: block;
+    width: 100%;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ;
+    margin-top: 10px;
+}
+.contenedor{
+  width: 100%;
+  padding-left: 17px;
+  margin-right: auto;
+  margin-left: 30%;
+  padding-top: 15%;
+}
+
+input,select{
+  display: block;
+width: 100%;
+padding: .375rem .75rem;
+font-size: 1rem;
+line-height: 1.5;
+color: #495057;
+background-color: #fff;
+background-clip: padding-box;
+border: 1px solid #ced4da;
+border-radius: .25rem;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#formulario{
+  margin-right: 25%;
+  margin-top: -50px;
+}
+#logo{
+  margin-top: 10px;
+  margin-left: 48%;
+}
+#controlbundle_alumno_fechaNacimiento_year,#controlbundle_alumno_fechaNacPadre_year,#controlbundle_alumno_fechaNacMadre_year,#controlbundle_alumno_fechaAlta_year,#controlbundle_alumno_fechaBaja_year,#controlbundle_alumno_renovServef_year{
+  width: 85px;
+  height: 34px;
+  float: left;
+  margin-bottom: 10px;
+}
+#controlbundle_alumno_fechaNacimiento_month,#controlbundle_alumno_fechaNacPadre_month,#controlbundle_alumno_fechaNacMadre_month,#controlbundle_alumno_fechaAlta_month,#controlbundle_alumno_fechaBaja_month,#controlbundle_alumno_renovServef_month{
+  width: 89px;
+  height: 33px;
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 45%;
+}
+#controlbundle_alumno_fechaNacimiento_day,#controlbundle_alumno_fechaNacPadre_day,#controlbundle_alumno_fechaNacMadre_day,#controlbundle_alumno_fechaAlta_day,#controlbundle_alumno_fechaBaja_day,#controlbundle_alumno_renovServef_day{
+  width: 80px;
+  height: 33px;
+  margin-bottom: 6px;
+  margin-left: 220px;
+  position: absolute;
+}
+.card-body{
+  text-align: center;
+}
+#controlbundle_alumno_dni::before{
+  margin-right: 100px;
+}
+h1{
+  padding-left: 50%;
+}
+#controlbundle_alumno_fechaNacimiento_year,#controlbundle_alumno_fechaNacPadre_year,#controlbundle_alumno_fechaNacMadre_year,#controlbundle_alumno_fechaAlta_year,#controlbundle_alumno_fechaBaja_year,#controlbundle_alumno_renovServef_year{
+  width: 85px;
+  height: 34px;
+  float: left;
+  margin-bottom: 10px;
+}
+#controlbundle_alumno_fechaNacimiento_month,#controlbundle_alumno_fechaNacPadre_month,#controlbundle_alumno_fechaNacMadre_month,#controlbundle_alumno_fechaAlta_month,#controlbundle_alumno_fechaBaja_month,#controlbundle_alumno_renovServef_month{
+  width: 89px;
+  height: 33px;
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 45%;
+}
+#controlbundle_alumno_fechaNacimiento_day,#controlbundle_alumno_fechaNacPadre_day,#controlbundle_alumno_fechaNacMadre_day,#controlbundle_alumno_fechaAlta_day,#controlbundle_alumno_fechaBaja_day,#controlbundle_alumno_renovServef_day{
+   width: 80px;
+  height: 33px;
+  margin-bottom: 6px;
+  margin-left: 220px;
+  position: absolute;
+}
+.card-body{
+  text-align: center;
+}
+#controlbundle_alumno_dni::before{
+  margin-right: 100px;
+}
